@@ -164,14 +164,5 @@ EMAIL_HOST_PASSWORD = 'sagl tshw bxog zqrw'
 
 
 
-# # Admin styling adjustment
-
-# ADMIN_MEDIA_PREFIX = '/static/admin/'
-
-
-# SECURE_CROSS_ORIGIN_OPENER_POLICY='same-origin-allow-popups'
-
-
-# # RDS(Database) configuration settings:
 
 
