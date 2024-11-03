@@ -174,23 +174,4 @@ EMAIL_HOST_PASSWORD = 'sagl tshw bxog zqrw'
 
 # # RDS(Database) configuration settings:
 
-DATABASES = {
-  
-  'default': {
-
-    'ENGINE': 'django.db.backends.postgresql',
-
-    'NAME': 'demo_1',
-
-    'USER': 'faizan',
-
-    'PASSWORD': 'edenpostgres',
-
-    'HOST': 'database-1.cpce4um6274k.ap-south-1.rds.amazonaws.com',
-
-    'PORT': '5432',
-
-    }
-
-}
 
